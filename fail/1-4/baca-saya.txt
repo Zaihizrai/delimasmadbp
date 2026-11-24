@@ -1,0 +1,2 @@
+Letakkan fail untuk bahagian 1.4 di folder ini.
+Fail ini tidak dipaparkan di laman dan boleh dibiarkan.
